@@ -40,15 +40,15 @@ es: &DEFAULT_ES
   nav:
     - title: "Servicios"
       section: servicios
-    - title: "Portafolio"
+    - title: "Clientes"
       section: portafolio
-    - title: "Sobre Nosotros"
+    - title: "Sobre Mi"
       section: nosotros
     - title: "Cronología"
       section: cronologia
     - title: "Equipo"
       section: equipo
-    - title: "Contáctenos"
+    - title: "Contacto"
       section: contacto
     - title: "Fuente de la plantilla"
       url: https://github.com/raviriley/agency-jekyll-theme/
