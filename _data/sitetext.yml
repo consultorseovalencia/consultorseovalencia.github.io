@@ -208,9 +208,9 @@ es: &DEFAULT_ES
         desc: "Universiad de Murcia"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Oficina de Gestión de Proyectos Internacionales (OGPI)"
+      - title: "Oficina de Gestión de Proyectos Internacionales (Universidad de Alicante)"
         year: "2006-2011"
-        desc: "Universidad de Alicante"
+        desc: "Gestión de Contenidos y SEO"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Máster en Buscadores (SEO, SEM, SMO, Analítica Web, Vigilancia Tecnológica)"
