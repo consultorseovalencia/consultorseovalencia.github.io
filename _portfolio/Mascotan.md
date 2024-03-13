@@ -1,19 +1,17 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Mascotan
-  subtitle: subtitle
+  subtitle: SEO y Google Ads
   thumbnail: /assets/img/portfolio/mascotan.jpg
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+title: Mascotan
+subtitle: Google Ads y SEO en Mascotan
+image: /assets/img/portfolio/mascotan.jpg #main image, can be a link or a file in assets/img/portfolio
+alt: Google Ads y SEO en Mascotan
 
 ---
-Use this area to describe your project. **Markdown** supported.
-
-optional info list (delete if not using):
+El cliente necesitaba una revisión completa del sitio web a nivel de SEO. Se trataba de un proyecto donde se habían cuidado aspectos como el diseño y la usabilidad, pero faltaba aplicarle las mejoras SEO más actuales. Posteriormente nos solicitaron la implementación de una campaña en Google Ads y en Shopping para alcanzar a clientes de toda la Península a través de estos canales.
 
 {:.list-inline} 
 - Date: 
