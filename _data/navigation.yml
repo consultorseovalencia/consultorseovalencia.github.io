@@ -46,7 +46,7 @@ es: &DEFAULT_ES
       section: cronologia
     - title: "Equipo"
       section: equipo
-    - title: "Contacto"
+    - title: "Contactar"
       section: contacto
 es-ES:
   <<: *DEFAULT_ES
