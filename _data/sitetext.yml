@@ -223,6 +223,11 @@ es: &DEFAULT_ES
         desc: "Coordinador de Equipo SEO"
         image: assets/img/timeline/4.jpg
         alt: Coordinador de Equipo SEO en Internet Studios
+      - title: "JMSWEBS SL"
+        year: "2014-"
+        desc: "Gerente y SEO Manager"
+        image: assets/img/timeline/5.jpg
+        alt: Gerente y SEO Manager en JMSWEBS SL
         # you can enforce the alignment
         align: right
     end: "JMSWEBS SL<br/>
