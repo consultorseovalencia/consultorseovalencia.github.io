@@ -185,7 +185,7 @@ es: &DEFAULT_ES
         icon: fa-solid fa-rocket #find more at https://fontawesome.com/icons
       - title: "Google Ads"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fa-brands fa-google
+        icon: fab fa-google
       - title: "SEO Local"
         desc: "Su descripción aquí, soporte completo de **Markdown**"
         icon: fa-solid fa-map-location-dot
