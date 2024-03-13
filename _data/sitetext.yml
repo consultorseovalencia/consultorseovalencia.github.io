@@ -176,22 +176,22 @@ es: &DEFAULT_ES
     buttonlink: "#servicios"
 
   services:
-    title: "Servicios"
+    title: "Mis servicios"
     text: "Lorem ipsum"
     section: servicios
     list:
-      - title: "Comercio Electrónico"
+      - title: "Posicionamiento Web"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Diseño Responsivo"
+      - title: "Google Ads"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "SEO Local"
         desc: "Su descripción aquí, soporte completo de **Markdown**"
         icon: fab fa-markdown
 
   portfolio:
-    title: "Clientes"
+    title: "Clientes recientes"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portafolio
     closebutton: "Cerrar"
