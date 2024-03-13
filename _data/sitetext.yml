@@ -182,13 +182,13 @@ es: &DEFAULT_ES
     list:
       - title: "Posicionamiento Web"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fa-solid fa-rocket #find more at https://fontawesome.com/icons
       - title: "Google Ads"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        icon: fa-brands fa-google
       - title: "SEO Local"
         desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fab fa-markdown
+        icon: fa-solid fa-map-location-dot
 
   portfolio:
     title: "Clientes recientes"
