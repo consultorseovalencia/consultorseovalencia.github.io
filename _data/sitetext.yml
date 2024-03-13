@@ -225,7 +225,8 @@ es: &DEFAULT_ES
         alt:
         # you can enforce the alignment
         align: right
-    end: "JMSWEBS SL"
+    end: "JMSWEBS SL<br/>
+    Gerente"
 
   about:
     title: "¿Por qué deberías confiar en mí?"
