@@ -193,7 +193,7 @@ es: &DEFAULT_ES
   portfolio:
     title: "Clientes recientes"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portafolio
+    section: clientes
     closebutton: "Cerrar"
 
   timeline:
