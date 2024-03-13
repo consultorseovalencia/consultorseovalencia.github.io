@@ -203,29 +203,29 @@ es: &DEFAULT_ES
     # left is the default
     #start_align: "left"
     events:
-      - title: "Nuestro Humilde Comienzo"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Licenciado en Documentación"
+        year: "2005"
+        desc: "Universiad de Murcia"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Una Agencia nace"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Oficina de Gestión de Proyectos Internacionales (OGPI)"
+        year: "2006-2011"
+        desc: "Universidad de Alicante"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "La plantilla Jekyll es creada"
-        year: "2019"
-        desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
+      - title: "Máster en Buscadores, (SEO, SEM, SMO, Analítica Web, Vigilancia Tecnológica)"
+        year: "2011-2012"
+        desc: "Universitat Pompeu Fabra"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Título"
-        year: "2009-2011"
-        desc: "Su descripción aquí, **Markdown** es soportado completamente."
+      - title: "Internet Studios"
+        year: "2012-2013"
+        desc: "Coordinador de Equipo SEO"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "¡Se parte <br> de Nuestra <br> Historia!"
+    end: "JMSWEBS SL"
 
   about:
     title: "¿Por qué deberías confiar en mí?"
