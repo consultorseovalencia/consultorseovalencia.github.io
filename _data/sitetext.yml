@@ -171,8 +171,8 @@ en-AU:
 es: &DEFAULT_ES
   header:
     title: José Manuel Sánchez
-    text: Consultor SEO en Valencia
-    button: Saber más
+    text: Impulso tu negocio
+    button: Descubre cómo
     buttonlink: "#servicios"
 
   services:
