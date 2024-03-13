@@ -207,22 +207,22 @@ es: &DEFAULT_ES
         year: "2005"
         desc: "Universiad de Murcia"
         image: assets/img/timeline/1.jpg
-        alt:
+        alt: Licenciado en Documentación en Universidad de Murcia
       - title: "Oficina de Gestión de Proyectos Internacionales (Universidad de Alicante)"
         year: "2006-2011"
         desc: "Gestión de Contenidos y SEO"
         image: assets/img/timeline/2.jpg
-        alt:
+        alt: Gestión de Contenidos y SEO en Oficina de Gestión de Proyectos Internacionales
       - title: "Máster en Buscadores (SEO, SEM, SMO, Analítica Web, Vigilancia Tecnológica)"
         year: "2011-2012"
         desc: "Universitat Pompeu Fabra"
         image: assets/img/timeline/3.jpg
-        alt: image alt text
+        alt: Máster en Buscadores en Universitat Pompeu Fabra
       - title: "Internet Studios"
         year: "2012-2013"
         desc: "Coordinador de Equipo SEO"
         image: assets/img/timeline/4.jpg
-        alt:
+        alt: Coordinador de Equipo SEO en Internet Studios
         # you can enforce the alignment
         align: right
     end: "JMSWEBS SL<br/>
