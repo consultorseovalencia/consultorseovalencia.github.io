@@ -253,8 +253,8 @@ es: &DEFAULT_ES
 
   team:
     title: "EN REDES SOCIALES"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Puedes escribirme aquí."
+    subtext: Estoy activo tanto en Twitter (X) como en LinkedIn, pero sobre todo mantengo una newsletter mensual donde aporto mi punto de vista sobre la actualidad de los sectores del SEO y la IA.
     section: equipo
     people:
 
