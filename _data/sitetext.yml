@@ -191,10 +191,10 @@ es: &DEFAULT_ES
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portafolio"
+    title: "Clientes"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portafolio
-    closebutton: "Cerrar Proyecto"
+    closebutton: "Cerrar"
 
   timeline:
     title: "Cronología"
@@ -289,7 +289,7 @@ es: &DEFAULT_ES
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contáctenos"
+    title: "Contacto"
     text: "Lorem ipsum or call 123456789"
     section: contacto
     name: "Nombre*"
