@@ -170,9 +170,9 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   header:
-    title: ¡Bienvenido a nuestro Estudio!
-    text: Es un placer conocerle
-    button: Ver más
+    title: José Manuel Sánchez
+    text: Consultor SEO en Valencia
+    button: Saber más
     buttonlink: "#servicios"
 
   services:
