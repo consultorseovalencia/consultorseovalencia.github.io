@@ -265,7 +265,7 @@ es: &DEFAULT_ES
           - url: https://twitter.com/josemas
             icon: fab fa-twitter
           - url: https://newsletter.jmswebs.com
-            icon: fab fa-paper-plane
+            icon: fab fa-at
           - url: https://linkedin.com/in/josemas
             icon: fab fa-linkedin-in
 
