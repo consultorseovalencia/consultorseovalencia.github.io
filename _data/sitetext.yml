@@ -176,7 +176,7 @@ es: &DEFAULT_ES
     buttonlink: "#servicios"
 
   services:
-    title: "Mis servicios"
+    title: "Así voy a ayudarte"
     text: "Lorem ipsum"
     section: servicios
     list:
@@ -228,9 +228,9 @@ es: &DEFAULT_ES
     end: "¡Se parte <br> de Nuestra <br> Historia!"
 
   about:
-    title: "Sobre nosotros"
+    title: "Pero, ¿quién soy?"
     text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Soy experto en Marketing Online, especializado en Posicionamiento Web, SEO Local y Google Ads. Casi 20 años en el sector, 10 de ellos ayudando a clientes a crear estrategias SEO para sitios web tanto comerciales como corporativos, así como de instituciones públicas."
     section: nosotros
 
   clients:
