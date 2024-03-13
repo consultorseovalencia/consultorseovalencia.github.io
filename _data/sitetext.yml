@@ -228,9 +228,9 @@ es: &DEFAULT_ES
     end: "¡Se parte <br> de Nuestra <br> Historia!"
 
   about:
-    title: "Pero, ¿quién soy?"
-    text: "nuestra historia"
-    body: "Soy experto en Marketing Online, especializado en Posicionamiento Web, SEO Local y Google Ads. Casi 20 años en el sector, 10 de ellos ayudando a clientes a crear estrategias SEO para sitios web tanto comerciales como corporativos, así como de instituciones públicas."
+    title: "¿Por qué deberías confiar en mí?"
+    text: "En pocas palabras..."
+    body: "Llevo casi 20 años en este sector y he trabajado tanto en el mundo universitario con proyectos internacionales, como en empresas del ámbito del Marketing Online. Con toda esta experiencia acumulada, llevo ya 10 años ofreciendo por cuenta propia mis servicios de Posicionamiento Web, SEO Local y Google Ads. Casi un centenar de clientes pueden hablar de mi dedicación y los resultados que consigo."
     section: nosotros
 
   clients:
@@ -253,7 +253,7 @@ es: &DEFAULT_ES
 
   team:
     title: "EN REDES SOCIALES"
-    text: "Puedes escribirme aquí."
+    text: "Puedes contactar conmigo por estos medios si lo deseas."
     subtext: Estoy activo tanto en Twitter (X) como en LinkedIn, pero sobre todo mantengo una newsletter mensual donde aporto mi punto de vista sobre la actualidad de los sectores del SEO y la IA.
     section: equipo
     people:
