@@ -228,10 +228,8 @@ es: &DEFAULT_ES
         desc: "Gerente y SEO Manager"
         image: assets/img/timeline/5.jpg
         alt: Gerente y SEO Manager en JMSWEBS SL
-        # you can enforce the alignment
-        align: right
-    end: "JMSWEBS SL<br/>
-    Gerente"
+        align: left
+
 
   about:
     title: "¿Por qué deberías confiar en mí?"
