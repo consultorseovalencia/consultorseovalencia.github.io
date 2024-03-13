@@ -279,28 +279,28 @@ es: &DEFAULT_ES
     text: "Puedes completar el formulario o llamarme al <b><u>623 064 370</b></u>"
     section: contacto
     name: "Nombre*"
-    name-validation: "Por favor escriba su nombre."
+    name-validation: "Por favor escribe tu nombre."
     email: "Correo Electrónico*"
-    email-validation: "Por favor escriba su correo electrónico."
+    email-validation: "Por favor escribe tu correo electrónico."
     phone: "Telefóno*"
-    phone-validation: "Por favor escriba su número telefónico."
+    phone-validation: "Por favor escribe tu número de teléfono."
     message: "Mensaje*"
-    message-validation: "Por favor escriba un mensaje."
+    message-validation: "Por favor escribe tu mensaje."
     subject: "Envío del formulario de contacto"
     submit: "Enviar Mensaje"
 
   footer:
     legal: "Política de Privacidad"
     social:
-      - url: https://twitter.com
+      - url: https://twitter.com/josemas
         icon: "fab fa-twitter"
-      - url: https://facebook.com
+      - url: https://facebook.com/jmswebs
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://linkedin.com/in/josemas
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/consultorseovalencia
         icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://instagram.com/jmswebs
         icon: "fab fa-instagram"
 es-ES:
   <<: *DEFAULT_ES
