@@ -213,7 +213,7 @@ es: &DEFAULT_ES
         desc: "Universidad de Alicante"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Máster en Buscadores, (SEO, SEM, SMO, Analítica Web, Vigilancia Tecnológica)"
+      - title: "Máster en Buscadores (SEO, SEM, SMO, Analítica Web, Vigilancia Tecnológica)"
         year: "2011-2012"
         desc: "Universitat Pompeu Fabra"
         image: assets/img/timeline/3.jpg
