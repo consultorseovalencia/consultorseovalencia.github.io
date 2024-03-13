@@ -272,7 +272,7 @@ es: &DEFAULT_ES
 
   contact:
     title: "Contacta conmigo"
-    text: "Puedes completar el formulario o llamarme al <b><a href="tel:623 064 370">623 064 370</a></b>"
+    text: "Puedes completar el formulario o llamarme al <b><a href="tel:+34623064370">623 064 370</a></b>"
     section: contacto
     name: "Nombre*"
     name-validation: "Por favor escriba su nombre."
