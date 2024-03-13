@@ -198,7 +198,7 @@ es: &DEFAULT_ES
 
   timeline:
     title: "Cronología"
-    text: "Lorem ipsum timeline"
+    text: "Te explico cómo he llegado hasta aquí."
     section: cronologia
     # left is the default
     #start_align: "left"
