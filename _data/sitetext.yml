@@ -238,7 +238,7 @@ es: &DEFAULT_ES
     section: nosotros
 
   clients:
-    section: clientes
+    section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
