@@ -192,7 +192,7 @@ es: &DEFAULT_ES
 
   portfolio:
     title: "Clientes recientes"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Una muestra de mi trabajo, aquí te dejo mis 6 clientes más recientes."
     section: clientes
     closebutton: "Cerrar"
 
