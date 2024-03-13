@@ -177,7 +177,7 @@ es: &DEFAULT_ES
 
   services:
     title: "Así voy a ayudarte"
-    text: "Lorem ipsum"
+    text: "Lo que te ofrezco como profesional."
     section: servicios
     list:
       - title: "Posicionamiento Web"
