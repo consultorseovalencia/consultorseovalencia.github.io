@@ -181,13 +181,13 @@ es: &DEFAULT_ES
     section: servicios
     list:
       - title: "Posicionamiento Web"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Me aseguro de que tu sitio web sea más visible en Google, aumentando así tanto el tráfico como su calidad. Ya sea optimizando tu sitio actual o creando una estrategia completa y adaptada a tus necesidades, te ayudo alcanzar tus objetivos."
         icon: fas fa-rocket #find more at https://fontawesome.com/icons
       - title: "Google Ads"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Google Ads puede potenciar significativamente la visibilidad de tu negocio en pocas semanas. Investigo las palabras clave de tu sector y genero una amplia gama de formatos de anuncio, personalizándolos para garantizar el máximo rendimiento."
         icon: fab fa-google
       - title: "SEO Local"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
+        desc: "El SEO local es esencial para destacar en tu área, asegurando una alta visibilidad en las búsquedas locales. Con estrategias específicas, trabajo para posicionarte en los primeros resultados, atrayendo a clientes cercanos y aumentando tus ventas."
         icon: fas fa-map-marked-alt
 
   portfolio:
