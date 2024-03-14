@@ -290,7 +290,7 @@ es: &DEFAULT_ES
     submit: "Enviar Mensaje"
 
   footer:
-    legal: "Política de Privacidad"
+    privacidad: "Política de Privacidad"
     social:
       - url: https://twitter.com/josemas
         icon: "fab fa-twitter"
