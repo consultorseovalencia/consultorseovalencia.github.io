@@ -291,6 +291,7 @@ es: &DEFAULT_ES
 
   footer:
     privacidad: "Política de Privacidad"
+    legal: "Aviso Legal"
     social:
       - url: https://twitter.com/josemas
         icon: "fab fa-twitter"
