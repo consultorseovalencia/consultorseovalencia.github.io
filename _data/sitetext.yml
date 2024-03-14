@@ -177,7 +177,7 @@ es: &DEFAULT_ES
 
   services:
     title: "Así voy a ayudarte"
-    text: "Te puedo prestar todos estos servicios."
+    text: "Puedo combinar uno o varios de estos servicios para llevar tu empresa a la cima."
     section: servicios
     list:
       - title: "Posicionamiento Web"
@@ -192,13 +192,13 @@ es: &DEFAULT_ES
 
   portfolio:
     title: "Clientes recientes"
-    text: "Como muestra de mi trabajo, aquí te dejo mis 6 clientes más recientes."
+    text: "Ahora quiero mostrarte cómo trabajo, así que aquí te dejo mis seis clientes más recientes."
     section: clientes
     closebutton: "Cerrar"
 
   timeline:
     title: "Cronología"
-    text: "Te cuento brevemente cómo he llegado hasta aquí."
+    text: "Pero, ¿cómo he llegado hasta aquí? Te lo cuento brevemente:"
     section: cronologia
     # left is the default
     #start_align: "left"
@@ -232,8 +232,8 @@ es: &DEFAULT_ES
 
 
   about:
-    title: "¿Por qué deberías confiar en mí?"
-    text: "Pues en pocas palabras..."
+    title: "¿Y por qué deberías confiar en mí?"
+    text: "Pues te lo resumo en pocas palabras..."
     body: "Porque llevo <b>casi 20 años en el sector</b> y he trabajado tanto en la universidad, en proyectos internacionales, como en empresas del ámbito del Marketing Online. Con toda esta experiencia acumulada, llevo ya 10 años ofreciendo por cuenta propia mis servicios de <b>Posicionamiento Web, SEO Local y Google Ads</b>. Casi un centenar de clientes pueden hablar de mi dedicación y los resultados que consigo."
     section: nosotros
 
@@ -258,7 +258,7 @@ es: &DEFAULT_ES
   team:
     title: "EN REDES SOCIALES"
     text: "Puedes contactar conmigo por estos medios si lo deseas."
-    subtext: Otra forma de seguirme es suscribiéndote a mi <b>newsletter semanal</b>, donde aporto mi punto de vista sobre la actualidad de los sectores del SEO y la IA.
+    subtext: Otra forma de seguirme es suscribiéndote a mi <b>newsletter semanal</b>, donde te aporto mi punto de vista sobre la actualidad de los sectores del SEO y la IA.
     section: equipo
     people:
 
@@ -275,7 +275,7 @@ es: &DEFAULT_ES
 
 
   contact:
-    title: "Contacta conmigo"
+    title: "¿Quieres contactar conmigo?"
     text: "Puedes completar el formulario o llamarme al <b><u>623 064 370</b></u>"
     section: contacto
     name: "Nombre*"
