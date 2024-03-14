@@ -258,7 +258,7 @@ es: &DEFAULT_ES
   team:
     title: "EN REDES SOCIALES"
     text: "Puedes contactar conmigo por estos medios si lo deseas."
-    subtext: Estoy activo tanto en Twitter (X) como en LinkedIn, pero sobre todo mantengo una newsletter mensual donde aporto mi punto de vista sobre la actualidad de los sectores del SEO y la IA.
+    subtext: Otra forma de seguirme es suscribiéndote a mi newsletter semanal, donde aporto mi punto de vista sobre la actualidad de los sectores del SEO y la IA.
     section: equipo
     people:
 
