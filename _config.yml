@@ -18,7 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Consultor SEO Valencia
 email      : josemas@gmail.com #this is also the email contact forms will go to
-description: "Consultor SEO en Valencia especializado en SEO Local y Posicionamiento Web. Maximiza tu visibilidad en Google con estrategias efectivas. Descubre cómo potenciar tu presencia online con Google Ads."
+description: "Consultor SEO en Valencia especializado en Posicionamiento Web y SEO Local. Maximiza tu visibilidad en Google con estrategias efectivas. Descubre cómo potenciar tu presencia online con Google Ads."
 author     : José Manuel Sánchez
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
