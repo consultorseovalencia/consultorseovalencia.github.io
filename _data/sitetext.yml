@@ -233,8 +233,8 @@ es: &DEFAULT_ES
 
   about:
     title: "¿Por qué deberías confiar en mí?"
-    text: "En pocas palabras..."
-    body: "Llevo <b>casi 20 años en el sector</b> y he trabajado tanto en el mundo universitario con proyectos internacionales, como en empresas del ámbito del Marketing Online. Con toda esta experiencia acumulada, llevo ya 10 años ofreciendo por cuenta propia mis servicios de <b>Posicionamiento Web, SEO Local y Google Ads</b>. Casi un centenar de clientes pueden hablar de mi dedicación y los resultados que consigo."
+    text: "Pues en pocas palabras:"
+    body: "Porque llevo <b>casi 20 años en el sector</b> y he trabajado tanto en la universidad, en proyectos internacionales, como en empresas del ámbito del Marketing Online. Con toda esta experiencia acumulada, llevo ya 10 años ofreciendo por cuenta propia mis servicios de <b>Posicionamiento Web, SEO Local y Google Ads</b>. Casi un centenar de clientes pueden hablar de mi dedicación y los resultados que consigo."
     section: nosotros
 
   clients:
