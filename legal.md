@@ -120,7 +120,7 @@ Así pues, el Usuario podrá ejercitar sus derechos mediante comunicación escri
 
 Esta solicitud y todo otro documento adjunto podrá enviarse a la siguiente dirección y/o correo electrónico:
 
-Dirección postal: Plaza Europa, 46
+Dirección postal: Plaza Europa, 46, Massamagrell (Valencia)
 
 Correo electrónico: josemas@gmail.com
 
