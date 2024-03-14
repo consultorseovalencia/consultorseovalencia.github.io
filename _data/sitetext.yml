@@ -76,12 +76,21 @@ en: &DEFAULT_EN
 
   clients:
     section: clients
-    max-height: 600px
+    max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "envato"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/envato.jpg
+      - title: "designmodo"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+      - title: "themeforest"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "OUR AMAZING TEAM"
