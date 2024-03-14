@@ -39,7 +39,7 @@ es: &DEFAULT_ES
     - title: "Servicios"
       section: servicios
     - title: "Clientes"
-      section: clientes
+      section: portfolio
     - title: "Sobre Mi"
       section: nosotros
     - title: "Cronología"
