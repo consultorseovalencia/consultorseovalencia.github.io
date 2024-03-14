@@ -224,7 +224,7 @@ es: &DEFAULT_ES
         image: assets/img/timeline/4.jpg
         alt: Coordinador de Equipo SEO en Internet Studios
       - title: "JMSWEBS SL"
-        year: "2014-"
+        year: "2014-actualidad"
         desc: "Gerente y SEO Manager"
         image: assets/img/timeline/5.jpg
         alt: Gerente y SEO Manager en JMSWEBS SL
