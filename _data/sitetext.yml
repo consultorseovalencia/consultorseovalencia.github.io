@@ -177,14 +177,14 @@ es: &DEFAULT_ES
 
   services:
     title: "Así voy a ayudarte"
-    text: "Lo que te ofrezco como profesional."
+    text: "Te puedo prestar todos estos servicios."
     section: servicios
     list:
       - title: "Posicionamiento Web"
         desc: "Me aseguro de que tu sitio web sea <u><b>más visible en Google</b></u>, aumentando así tanto el tráfico como su calidad. Ya sea optimizando tu sitio actual o creando una estrategia completa y adaptada a tus necesidades, te ayudo alcanzar tus objetivos."
         icon: fas fa-rocket
       - title: "Google Ads"
-        desc: "Google Ads puede <u><b>potenciar significativamente la presencia online</b></u> de tu negocio en pocas semanas. Investigo las palabras clave de tu sector y genero una amplia gama de formatos de anuncio, personalizándolos para garantizar el máximo rendimiento."
+        desc: "Google Ads puede <u><b>potenciar significativamente la presencia online</b></u> de tu negocio en pocas semanas. Investigo las palabras clave de tu sector y genero una amplia gama de anuncios, personalizándolos para garantizar el máximo rendimiento."
         icon: fab fa-google
       - title: "SEO Local"
         desc: "El SEO local es esencial para destacar en tu área, asegurando una <u><b>alta visibilidad en las búsquedas locales</b></u>. Con estrategias específicas, trabajo para posicionarte en los primeros resultados, atrayendo a clientes cercanos y aumentando tus ventas."
