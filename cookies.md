@@ -33,11 +33,45 @@ Las cookies utilizadas en nuestro sitio web, son de sesión y de terceros, y nos
 
 Las cookies, en función de su permanencia, pueden dividirse en cookies de sesión o permanentes. Las que expiran cuando el usuario cierra el navegador. Las que expiran en función de cuando se cumpla el objetivo para el que sirven (por ejemplo, para que el usuario se mantenga identificado en los servicios de José Manuel Sánchez Navarro) o bien cuando se borran manualmente.
 
-Nombre	Tipo	Caducidad	Finalidad	Clase
-__utma	De Terceros (Google Analytics)	2 años	Se usa para distinguir usuarios y sesiones.	No Exenta
-__utmb	De Terceros (Google Analytics)	30 minutos	Se usa para determinar nuevas sesiones o visitas	No Exenta
-__utmc	De Terceros (Google Analytics)	Al finalizar la sesión	Se configura para su uso con Urchin	No Exenta
-__utmz	De Terceros (Google Analytics)	6 meses	Almacena el origen o la campaña que explica cómo el usuario ha llegado hasta la página web	No Exenta
+<table border="0" width="100%" cellpadding="15">
+<tbody>
+<tr>
+<td>Nombre</td>
+<td>Tipo</td>
+<td>Caducidad</td>
+<td>Finalidad</td>
+<td>Clase</td>
+</tr>
+<tr>
+<td>__utma</td>
+<td>De Terceros (Google Analytics)</td>
+<td>2 años</td>
+<td>Se usa para distinguir usuarios y sesiones.</td>
+<td>No Exenta</td>
+</tr>
+<tr>
+<td>__utmb</td>
+<td>De Terceros (Google Analytics)</td>
+<td>30 minutos</td>
+<td>Se usa para determinar nuevas sesiones o visitas</td>
+<td>No Exenta</td>
+</tr>
+<tr>
+<td>__utmc</td>
+<td>De Terceros (Google Analytics)</td>
+<td>Al finalizar la sesión</td>
+<td>Se configura para su uso con Urchin</td>
+<td>No Exenta</td>
+</tr>
+<tr>
+<td>__utmz</td>
+<td>De Terceros (Google Analytics)</td>
+<td>6 meses</td>
+<td>Almacena el origen o la campaña que explica cómo el usuario ha llegado hasta la página web</td>
+<td>No Exenta</td>
+</tr>
+</tbody>
+</table>
 
 Adicionalmente, en función de su objetivo, las cookies pueden clasificarse de la siguiente forma:
 
