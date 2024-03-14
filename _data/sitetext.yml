@@ -263,7 +263,7 @@ es: &DEFAULT_ES
     people:
 
       - name: "José Manuel Sánchez"
-        role: "Consultor SEO"
+        role: "Consultor SEO/SEM"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com/josemas
