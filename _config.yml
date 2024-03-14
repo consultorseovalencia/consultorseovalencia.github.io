@@ -27,7 +27,7 @@ author     : José Manuel Sánchez
 locale: "es-ES" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-GVK26MEH9C
 
 collections:
   portfolio:
