@@ -268,10 +268,10 @@ es: &DEFAULT_ES
         social:
           - url: https://twitter.com/josemas
             icon: fab fa-twitter
-          - url: https://newsletter.jmswebs.com
-            icon: far fa-paper-plane
           - url: https://linkedin.com/in/josemas
             icon: fab fa-linkedin-in
+          - url: https://api.whatsapp.com/message/2VJVNQK42YDMK1?autoload=1&app_absent=0
+            icon: fab fa-whatsapp
 
 
   contact:
