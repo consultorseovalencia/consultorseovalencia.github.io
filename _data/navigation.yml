@@ -40,11 +40,11 @@ es: &DEFAULT_ES
       section: servicios
     - title: "Clientes"
       section: portfolio
-    - title: "Sobre Mi"
+    - title: "Sobre mi"
       section: nosotros
     - title: "Cronología"
       section: cronologia
-    - title: "Redes"
+    - title: "En redes"
       section: equipo
     - title: "Contactar"
       section: contacto
