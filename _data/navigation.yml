@@ -40,7 +40,7 @@ es: &DEFAULT_ES
       section: servicios
     - title: "Clientes"
       section: portfolio
-    - title: "Sobre mi"
+    - title: "Sobre mí"
       section: nosotros
     - title: "Cronología"
       section: cronologia
