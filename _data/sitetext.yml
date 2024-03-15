@@ -276,8 +276,6 @@ es: &DEFAULT_ES
 
   contact:
     title: "¿Y si hablamos?"
-    text: "Puedes completar el formulario o llamarme al "
-      -url: tel:623064370
     section: contacto
     name: "Nombre*"
     name-validation: "Por favor escribe tu nombre."
