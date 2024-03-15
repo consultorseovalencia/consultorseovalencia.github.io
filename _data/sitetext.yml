@@ -275,7 +275,7 @@ es: &DEFAULT_ES
 
 
   contact:
-    title: "¿Quieres contactar conmigo?"
+    title: "¿Y si hablamos?"
     text: "Puedes completar el formulario o llamarme al <b><u>623 064 370</b></u>"
     section: contacto
     name: "Nombre*"
