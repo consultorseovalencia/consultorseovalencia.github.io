@@ -277,7 +277,7 @@ es: &DEFAULT_ES
   contact:
     title: "¿Y si hablamos?"
     text: "Puedes completar el formulario o llamarme al "
-      -url: <a href="tel:+34623064370">623 064 370</a>
+      -url: tel:623064370
     section: contacto
     name: "Nombre*"
     name-validation: "Por favor escribe tu nombre."
