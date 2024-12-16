@@ -16,7 +16,7 @@ theme: jekyll-agency
 url    : "https://consultorseovalencia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Consultor SEO Valencia
+title      : Consultor SEO en Valencia
 email      : josemas@gmail.com #this is also the email contact forms will go to
 description: "Consultor SEO en Valencia especializado en Posicionamiento Web y SEO Local. Maximiza tu visibilidad en Google con estrategias efectivas. Descubre cómo potenciar tu presencia online con Google Ads."
 author     : José Manuel Sánchez
