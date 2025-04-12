@@ -234,7 +234,7 @@ es: &DEFAULT_ES
   about:
     title: "¿Y por qué deberías confiar en mí?"
     text: "Pues te lo resumo en pocas palabras..."
-    body: "Porque llevo <b>casi 20 años en el sector</b> y he trabajado tanto en la universidad, en proyectos internacionales, como en empresas del ámbito del Marketing Digital. Con toda esta experiencia acumulada, llevo ya 12 años ofreciendo por cuenta propia mis servicios como <b><a href="https://jmswebs.com/posicionamiento-seo/">consultor SEO en Valencia</a></b>, <b>experto en SEO Local</b> y <b>gestor de Google Ads</b>. Casi un centenar de clientes pueden hablar de mi dedicación y los resultados que consigo."
+    body: "Porque llevo <b>casi 20 años en el sector</b> y he trabajado tanto en la universidad, en proyectos internacionales, como en empresas del ámbito del Marketing Digital. Con toda esta experiencia acumulada, llevo ya 12 años ofreciendo por cuenta propia mis servicios como <b>[consultor SEO en Valencia](https://jmswebs.com/posicionamiento-seo)</b>, <b>experto en SEO Local</b> y <b>gestor de Google Ads</b>. Casi un centenar de clientes pueden hablar de mi dedicación y los resultados que consigo."
     section: nosotros
 
   clients:
