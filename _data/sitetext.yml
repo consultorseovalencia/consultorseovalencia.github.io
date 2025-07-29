@@ -299,8 +299,6 @@ es: &DEFAULT_ES
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com/in/josemas
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/consultorseovalencia
-        icon: "fab fa-github"
       - url: https://instagram.com/jmswebs
         icon: "fab fa-instagram"
 es-ES:
